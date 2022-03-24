@@ -4,5 +4,5 @@
 
 - 📫 How to reach me: **LinkedIn** [Vinay Kumar ](https://www.linkedin.com/in/vinay-kumar-41220b1b9/)
 
-<img width="48%" img src="https://github-readme-stats.vercel.app/api?username=Jayeshbhojawat&theme=radical&show_icons=true">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayeshbhojawat&theme=radical&show_icons=true" />
+<img width="48%" img src="https://github-readme-stats.vercel.app/api?username=vinay-kumar07&theme=radical&show_icons=true">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-kumar07&theme=radical&show_icons=true" />
