@@ -1,7 +1,7 @@
 ### Hello Coders🚀, I'm Vinay Kumar from IIT Ropar <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 - **LinkedIn** [Vinay Kumar](https://www.linkedin.com/in/vinay-kumar-41220b1b9/)
-- **Instagram** [Vinay Kumar](linkedin)
+- **Google Scholar** [Vinay Kumar](https://scholar.google.com/citations?user=-N3OEVEAAAAJ&hl=en&oi=sra)
 
 #### Tech Stacks
 
